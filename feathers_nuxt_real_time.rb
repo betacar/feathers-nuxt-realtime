@@ -12,7 +12,7 @@ section "Feathers and Nuxt JS: the last real-time™ Jedis" do
   # Slide 02
   center <<-EOS
     \e[1mCarlos Betancourt Carrero\e[0m
-    Director of Product Engineering @ uBiome
+    Llama repair specialist @ uBiome
 
     @betacar
   EOS
@@ -67,7 +67,7 @@ section "Feathers JS" do
   EOS
 
   code :sh, <<-EOS
-    $ featgers generate service
+    $ feathers generate service
   EOS
 
   # Slide 06
